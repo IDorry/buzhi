@@ -1,0 +1,23 @@
+/* 通用样式： */
+html,
+body,
+div {
+  padding: 0;
+  margin: 0;
+}
+html {
+  width: 100%;
+  height: 100%;
+}
+body {
+  width: 100%;
+  height: 100%;
+}
+
+/* 页面wrapper大盒子 开始 */
+.wrapper {
+  width: 100%;
+  height: 100%;
+  background-color: pink;
+}
+/* 页面wrapper大盒子 结束 */
